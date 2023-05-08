@@ -3,7 +3,7 @@
 
 int main() 
 {
-    float Gleitkommazahl = 4.5;
+    float Gleitkommazahl = 4.89;
     int Ganzzahl = 1;
     char Character = 'A';
     char String[] = { "Hallo Welt\n" };
