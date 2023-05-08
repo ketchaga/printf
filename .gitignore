@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignoriere Ausgabedateien von Compilationsprozessen
+*.o
+*.out
+*.exe
+
+# Ignoriere Verzeichnisse, die von Compilationsprozessen erstellt werden
+build/
+
